@@ -1,0 +1,17 @@
+public class IT26102312Lab2Q2 {
+    public static void main(String[] args) {
+
+        double length = 10;
+        double pi = 3.14;
+
+        // Calculate the perimeter of the square
+        double perimeter = 4 * length;
+
+        // Calculate the radius of the circle
+        double radius = perimeter / (2 * pi);
+
+        System.out.println("Length of square side: " + length);
+        System.out.println("Perimeter of square: " + perimeter);
+        System.out.println("Radius of circular fence: " + radius);
+    }
+}
