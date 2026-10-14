@@ -1,4 +1,4 @@
-public class ITxxxxxxxxLab2Q2 {
+public class IT26102312Lab2Q2 {
     public static void main(String[] args) {
 
         double length = 10;
